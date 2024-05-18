@@ -1,4 +1,4 @@
-package com.naiomi.jsonservice;
+package com.naiomi.json.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
